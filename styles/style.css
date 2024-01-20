@@ -11,7 +11,7 @@ body{
     
     width: 100%;
     height: 100vh;
-    background-color: #f3f3f3;
+    background-color: #e2e2e2;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,6 @@ body{
 .content-main{
     background-color: #fff;
     width: 43.75rem;
-    height: 31.25rem;
     border-radius: 0.625rem ;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     display:flex;
